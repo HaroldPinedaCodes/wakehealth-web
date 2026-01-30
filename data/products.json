@@ -1,0 +1,92 @@
+[
+  {
+    "id": "scrub-clasico-azul",
+    "name": "Scrub Clásico Azul",
+    "category": "uniformes-medicos",
+    "description": "Conjunto de scrub profesional en tela antifluidos. Incluye filipina y pantalón con múltiples bolsillos. Ideal para profesionales de la salud que buscan comodidad y durabilidad.",
+    "price": 45.00,
+    "images": ["/productos/scrub-azul.jpg"],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Azul Marino", "hex": "#1E40AF" },
+      { "name": "Azul Cielo", "hex": "#0EA5E9" }
+    ],
+    "customizable": false
+  },
+  {
+    "id": "scrub-clasico-verde",
+    "name": "Scrub Clásico Verde",
+    "category": "uniformes-medicos",
+    "description": "Conjunto de scrub profesional en tela antifluidos. Incluye filipina y pantalón con múltiples bolsillos. Color verde quirúrgico tradicional.",
+    "price": 45.00,
+    "images": ["/productos/scrub-verde.jpg"],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Verde Quirúrgico", "hex": "#166534" },
+      { "name": "Verde Menta", "hex": "#10B981" }
+    ],
+    "customizable": false
+  },
+  {
+    "id": "bata-medica-blanca",
+    "name": "Bata Médica Profesional",
+    "category": "uniformes-medicos",
+    "description": "Bata médica de alta calidad en tela premium. Corte profesional con bolsillos amplios. Disponible en manga larga.",
+    "price": 55.00,
+    "images": ["/productos/bata-blanca.jpg"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Blanco", "hex": "#FFFFFF" }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "camiseta-basica-algodon",
+    "name": "Camiseta Básica Algodón",
+    "category": "camisetas",
+    "description": "Camiseta 100% algodón de alta calidad. Perfecta para uso diario o como base para personalización. Tela suave y duradera.",
+    "price": 18.00,
+    "images": ["/productos/camiseta-basica.jpg"],
+    "sizes": ["XS", "S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Blanco", "hex": "#FFFFFF" },
+      { "name": "Negro", "hex": "#171717" },
+      { "name": "Gris", "hex": "#6B7280" },
+      { "name": "Azul Marino", "hex": "#1E40AF" }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "camiseta-polo-empresarial",
+    "name": "Polo Empresarial",
+    "category": "camisetas",
+    "description": "Polo de calidad premium ideal para uniformes corporativos. Tela piqué resistente. Perfecta para bordar o estampar el logo de tu empresa.",
+    "price": 28.00,
+    "images": ["/productos/polo-empresarial.jpg"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Blanco", "hex": "#FFFFFF" },
+      { "name": "Negro", "hex": "#171717" },
+      { "name": "Azul Marino", "hex": "#1E40AF" },
+      { "name": "Rojo", "hex": "#DC2626" }
+    ],
+    "customizable": true
+  },
+  {
+    "id": "camiseta-deportiva",
+    "name": "Camiseta Deportiva Dry-Fit",
+    "category": "camisetas",
+    "description": "Camiseta deportiva con tecnología de secado rápido. Ideal para equipos deportivos o uniformes de gimnasio. Ligera y transpirable.",
+    "price": 25.00,
+    "images": ["/productos/camiseta-deportiva.jpg"],
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "colors": [
+      { "name": "Blanco", "hex": "#FFFFFF" },
+      { "name": "Negro", "hex": "#171717" },
+      { "name": "Azul Rey", "hex": "#2563EB" },
+      { "name": "Rojo", "hex": "#DC2626" },
+      { "name": "Verde", "hex": "#16A34A" }
+    ],
+    "customizable": true
+  }
+]

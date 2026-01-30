@@ -1,0 +1,14 @@
+[
+  {
+    "id": "uniformes-medicos",
+    "name": "Uniformes Médicos",
+    "icon": "stethoscope",
+    "description": "Scrubs, batas y calzado profesional para el sector salud"
+  },
+  {
+    "id": "camisetas",
+    "name": "Camisetas",
+    "icon": "shirt",
+    "description": "Camisetas básicas y personalizables con tu logo o diseño"
+  }
+]
